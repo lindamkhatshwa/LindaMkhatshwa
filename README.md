@@ -6,52 +6,76 @@ IT Technician | Network Specialist | Cybersecurity Enthusiast | Digital Innovato
 
 ---
 
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LindaMkhatshwa&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LindaMkhatshwa&layout=compact&theme=tokyonight)
+
+---
+
 ## About Me
 
-I am an IT Technician with experience in IT support, networking, and digital systems development.
+I am an IT Technician passionate about building digital systems that solve real-world problems.
 
-I enjoy building technology platforms that solve real-world problems through innovation and automation.
-
-My focus areas include:
+My interests include:
 
 • Cybersecurity  
 • Network engineering  
 • Artificial intelligence  
-• Digital platforms  
+• Agriculture technology  
+
+I enjoy developing platforms that combine **technology, automation, and data-driven insights**.
 
 ---
 
-## My Projects
+## Projects
 
 ### SentinelSOC
 
-AI-powered Security Operations Center platform designed to monitor network traffic, detect cyber threats, and assist security teams in responding to incidents.
+AI-powered Security Operations Center platform designed to monitor networks, detect cyber threats, and assist security teams in responding to incidents.
+
+Features
+
+• Network traffic monitoring  
+• Cyber threat detection  
+• Security alerts  
+• AI-assisted threat analysis  
 
 ---
 
 ### Ndwandwe AgriConnect
 
-Smart agriculture platform designed to help farmers manage crops, monitor farm data, and improve agricultural productivity.
+Smart agriculture platform designed to help farmers manage crop production, monitor farm data, and improve agricultural productivity.
+
+Features
+
+• Crop monitoring  
+• Soil analysis  
+• Pest detection  
+• Farm analytics  
 
 ---
 
 ## Technical Skills
 
 Networking  
-Cisco networking  
+Cisco Networking  
 TCP/IP  
-Network troubleshooting
+Network Troubleshooting  
 
 Cybersecurity  
-Threat detection  
-Network monitoring  
-Security operations
+Threat Detection  
+Network Monitoring  
+Security Operations  
 
 Tools  
 Python  
 PowerShell  
 Linux  
 Git  
+Microsoft 365  
+Google Workspace  
 
 ---
 
@@ -63,4 +87,19 @@ Cisco Networking Academy
 • Networking Basics  
 • Networking Devices  
 • Cyber Threat Management  
-• Network Defence
+• Network Defence  
+
+---
+
+## Current Focus
+
+• Building SentinelSOC cybersecurity platform  
+• Expanding Ndwandwe AgriConnect  
+• Learning AI for cybersecurity and automation  
+
+---
+
+## Connect With Me
+
+Email: your email  
+LinkedIn: your LinkedIn
