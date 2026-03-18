@@ -1,105 +1,195 @@
-# Linda Bonginkosi Mkhatshwa
+# 👋 Linda Bonginkosi Mkhatshwa
 
-IT Technician | Network Specialist | Cybersecurity Enthusiast | Digital Innovator
+### 🚀 IT Technician | Network Specialist | Cybersecurity Enthusiast | Full-Stack AI Developer
 
 📍 Mpumalanga, South Africa
 
----
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LindaMkhatshwa&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LindaMkhatshwa&layout=compact&theme=tokyonight)
 
 ---
 
-## About Me
+## 🌍 About Me
 
-I am an IT Technician passionate about building digital systems that solve real-world problems.
+I am a results-driven IT professional with expertise in **network engineering, cybersecurity, and full-stack development**, combined with leadership experience in business and operations.
 
-My interests include:
+As a Company Director, I have a strong understanding of how technology integrates with real-world industries such as logistics, mining, and energy supply.
 
-• Cybersecurity  
-• Network engineering  
-• Artificial intelligence  
-• Agriculture technology  
-
-I enjoy developing platforms that combine **technology, automation, and data-driven insights**.
+I focus on building **secure, intelligent, and scalable systems** that solve real-world challenges through innovation and technology.
 
 ---
 
-## Projects
+## 🎓 Education
 
-### SentinelSOC
-
-AI-powered Security Operations Center platform designed to monitor networks, detect cyber threats, and assist security teams in responding to incidents.
-
-Features
-
-• Network traffic monitoring  
-• Cyber threat detection  
-• Security alerts  
-• AI-assisted threat analysis  
+**PC Engineer Graduate**
+Damelin
 
 ---
 
-### Ndwandwe AgriConnect
+## 💼 Professional Experience
 
-Smart agriculture platform designed to help farmers manage crop production, monitor farm data, and improve agricultural productivity.
+### 🏢 Company Director — Ndwandwe Group Pty Ltd (2017 – Present)
 
-Features
+Ndwandwe Group operates across multiple industries including:
 
-• Crop monitoring  
-• Soil analysis  
-• Pest detection  
-• Farm analytics  
+* Logistics
+* Mining
+* Diesel supply
 
----
+**Key Responsibilities:**
 
-## Technical Skills
-
-Networking  
-Cisco Networking  
-TCP/IP  
-Network Troubleshooting  
-
-Cybersecurity  
-Threat Detection  
-Network Monitoring  
-Security Operations  
-
-Tools  
-Python  
-PowerShell  
-Linux  
-Git  
-Microsoft 365  
-Google Workspace  
+* Leading business operations and strategic growth
+* Overseeing logistics and supply chain systems
+* Managing technical and digital solutions within the company
+* Driving innovation through technology integration
 
 ---
 
-## Certifications
+### 🛠️ IT Practical Training — LM Tech
 
-Cisco Networking Academy
-
-• Introduction to Cybersecurity  
-• Networking Basics  
-• Networking Devices  
-• Cyber Threat Management  
-• Network Defence  
+* Hands-on IT support experience
+* System troubleshooting and maintenance
+* Exposure to real-world IT environments
 
 ---
 
-## Current Focus
+### 🌐 Network & Systems Configuration
 
-• Building SentinelSOC cybersecurity platform  
-• Expanding Ndwandwe AgriConnect  
-• Learning AI for cybersecurity and automation  
+**Father Charles Primary School**
+**Bongumkhwanazi Primary School**
+
+* Network setup and configuration
+* Hardware installation and maintenance
+* Software deployment and system optimization
+* Ensuring stable and secure IT environments
 
 ---
 
-## Connect With Me
+## 🚀 Featured Projects
 
-Email: your email  
-LinkedIn: your LinkedIn
+### 🌱 Ndwandwe SmartFarm AI
+
+🔗 https://ndwandwe-smartfarm-ai-1.vercel.app/
+
+An AI-powered agricultural intelligence platform designed to assist farmers with real-time insights and smart decision-making.
+
+**Key Features:**
+• AI-powered farming assistant
+• Intelligent crop diagnostics
+• Data-driven insights
+• Scalable full-stack architecture
+
+---
+
+### 🛠️ IT Helpdesk Ticketing System
+
+🔗 https://it-helpdesk-ticketing-system.vercel.app/
+
+A full-stack IT support system that improves issue tracking and resolution.
+
+**Key Features:**
+• Ticket management
+• Issue tracking
+• Workflow efficiency
+
+---
+
+### 🔐 SentinelSOC Platform
+
+🔗 https://sentinel-soc-khaki.vercel.app/
+
+A cybersecurity platform for monitoring networks and detecting threats.
+
+**Key Features:**
+• Network monitoring
+• Threat detection
+• Security alerts
+• AI-assisted analysis
+
+---
+
+## 🧰 Technical Skills
+
+### 🌐 Networking
+
+• Cisco Networking
+• TCP/IP
+• Network Troubleshooting
+
+### 🔐 Cybersecurity
+
+• Threat Detection
+• Network Monitoring
+• Security Operations
+• Cyber Threat Analysis
+
+### 💻 Development & Tools
+
+• JavaScript (React, Node.js, Express)
+• Python
+• PowerShell
+• Linux
+• Git & GitHub
+• Microsoft 365
+• Google Workspace
+
+### 🤖 AI & Modern Tech
+
+• AI Integration (Google AI Studio - Gemini)
+• Prompt Engineering
+• Automation Systems
+
+---
+
+## 📜 Certifications
+
+**Cisco Networking Academy**
+
+• Introduction to Cybersecurity
+• Networking Basics
+• Networking Devices
+• Cyber Threat Management
+• Network Defence
+
+---
+
+## 📈 Experience Highlights
+
+* Full-stack application development
+* AI-powered system design
+* Network infrastructure deployment
+* Cybersecurity monitoring systems
+* Real-world IT support and troubleshooting
+* Business leadership and operations management
+
+---
+
+## 🎯 Current Focus
+
+• Expanding Ndwandwe SmartFarm AI
+• Advancing cybersecurity (SentinelSOC)
+• Integrating AI into real-world systems
+• Scaling digital solutions in logistics and agriculture
+
+---
+
+## 🤖 AI Perspective
+
+Artificial Intelligence is transforming industries, and I actively use it to build smarter systems.
+
+> AI is not here to replace us — it is here to enhance human capability and drive innovation.
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: your email
+🔗 LinkedIn: your link
+💻 GitHub: https://github.com/Lindamkhatshwa
+
+---
+
+## ⭐ Final Note
+
+I am committed to building impactful, secure, and intelligent systems that bridge the gap between **technology and real-world industries**.
+
+---
