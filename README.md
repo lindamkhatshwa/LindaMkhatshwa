@@ -182,7 +182,7 @@ Artificial Intelligence is transforming industries, and I actively use it to bui
 
 ## 📫 Connect With Me
 
-📧 Email: your email
+📧 Email: ndwandwegroup@gmail.com
 🔗 LinkedIn: your link
 💻 GitHub: https://github.com/Lindamkhatshwa
 
