@@ -68,7 +68,7 @@ Ndwandwe Group operates across multiple industries including:
 
 ### 🌱 Ndwandwe SmartFarm AI
 
-🔗 https://ndwandwe-smartfarm-ai-1.vercel.app/
+🔗 https://ndwandwe-smartfarm-ai.vercel.app/
 
 An AI-powered agricultural intelligence platform designed to assist farmers with real-time insights and smart decision-making.
 
